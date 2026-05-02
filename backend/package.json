@@ -1,13 +1,13 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": " Full stack auth app",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ashok Joshi",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^6.0.0",
